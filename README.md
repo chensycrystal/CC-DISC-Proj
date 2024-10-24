@@ -1,0 +1,1 @@
+The html and css files for the homepage of the DISC workshop project 2024. 
